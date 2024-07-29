@@ -1,0 +1,12 @@
+F:\AdNoteReg\AdNoteReg.Views\bin\Debug\net8.0\AdNoteReg.Views.deps.json
+F:\AdNoteReg\AdNoteReg.Views\bin\Debug\net8.0\AdNoteReg.Views.dll
+F:\AdNoteReg\AdNoteReg.Views\bin\Debug\net8.0\AdNoteReg.Views.pdb
+F:\AdNoteReg\AdNoteReg.Views\obj\Debug\net8.0\AdNoteReg.Views.GeneratedMSBuildEditorConfig.editorconfig
+F:\AdNoteReg\AdNoteReg.Views\obj\Debug\net8.0\AdNoteReg.Views.AssemblyInfoInputs.cache
+F:\AdNoteReg\AdNoteReg.Views\obj\Debug\net8.0\AdNoteReg.Views.AssemblyInfo.cs
+F:\AdNoteReg\AdNoteReg.Views\obj\Debug\net8.0\AdNoteReg.Views.csproj.CoreCompileInputs.cache
+F:\AdNoteReg\AdNoteReg.Views\obj\Debug\net8.0\AdNoteReg.Views.sourcelink.json
+F:\AdNoteReg\AdNoteReg.Views\obj\Debug\net8.0\AdNoteReg.Views.dll
+F:\AdNoteReg\AdNoteReg.Views\obj\Debug\net8.0\refint\AdNoteReg.Views.dll
+F:\AdNoteReg\AdNoteReg.Views\obj\Debug\net8.0\AdNoteReg.Views.pdb
+F:\AdNoteReg\AdNoteReg.Views\obj\Debug\net8.0\ref\AdNoteReg.Views.dll
